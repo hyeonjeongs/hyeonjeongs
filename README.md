@@ -1,7 +1,7 @@
 
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=e0d6ff&height=400&section=header&text=Hyeonjeongs%20Profile&fontSize=60&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=d2afff&height=250&section=header&text=Hyeonjeongs%20Profile&fontSize=60&fontColor=FFFFFF)
 
 ## 📌Tech Stack
   
