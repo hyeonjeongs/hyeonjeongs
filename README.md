@@ -5,7 +5,7 @@
 ## 📌Tech Stack
 ### Platforms & Languages
 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> </a>&nbsp;
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> </a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Java-137CBD?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/><br>
@@ -27,9 +27,10 @@
 
 ### Tools
 <img src="https://img.shields.io/badge/Git-f05030?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp;&nbsp; <br>
+<img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp;&nbsp;<br>
+
 <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Android Studio-#3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/CLion-000000?style=flat-square&logo=CLion&logoColor=white"/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/VSCode-000000?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>&nbsp;&nbsp;
 
