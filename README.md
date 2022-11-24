@@ -6,6 +6,7 @@
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Java-137CBD?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;&nbsp;
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>&nbsp;&nbsp;
 
