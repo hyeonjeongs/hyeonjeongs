@@ -39,7 +39,8 @@
 
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyeonjeongs&show_icons=true&theme=radical" height="170"> <a href="https://solved.ac/py0429/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hub0720" height="170"></a>
+ <img src="https://github-readme-stats.vercel.app/api?username=hyeonjeongs&show_icons=true&theme=radical" height="170"> <a href="https://solved.ac/py0429/"></a>&nbsp;
+ <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hub0720" height="170"></a>
 </div>
 
 
