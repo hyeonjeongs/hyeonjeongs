@@ -37,13 +37,10 @@
 
 </br></br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjeongs&show_icons=true&theme=radical)
-
-<div align="right">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpy0429%2F&count_bg=%23E8CAFF&title_bg=%23FFD000&icon=&icon_color=%23CFCFCF&title=hits&edge_flat=false">
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hyeonjeongs&show_icons=true&theme=radical" height="170"> <a href="https://solved.ac/py0429/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hub0720" height="170"></a>
 </div>
 
- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=py0429)](https://solved.ac/py0429)</div>
 
 
-</div>
