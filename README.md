@@ -1,8 +1,10 @@
 
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=Waving&color=c9c9ff&height=300&section=header&text=Hyeonjeongs%20Profile&fontSize=60&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=d2afff&height=300&section=header&text=Hyeonjeongs%20Profile&fontSize=60&fontColor=FFFFFF)
 
+## 📌Tech Stack
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonjeongs&show_icons=true&theme=radical)
 
 [![Solved.ac
