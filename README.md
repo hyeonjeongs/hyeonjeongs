@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=Slice&color=ff80ed&height=250&section=header&text=Hyeonjeongs%20Profile&fontSize=60&fontColor=000000&stroke=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=ff80ed&height=250&section=header&text=Hyeonjeongs%20Profile&fontSize=60&fontColor=FFFFFF)
 
 ## 📌Tech Stack
 ### Platforms & Languages
