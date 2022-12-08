@@ -2,6 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=ff80ed&height=200&section=header&text=Hyeonjeongs%20Profile&fontSize=60&fontColor=FFFFFF&stroke=000000)
 
+ 
 ## 📌Tech Stack
 ### Platforms & Languages
 
